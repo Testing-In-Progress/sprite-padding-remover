@@ -1,0 +1,7 @@
+#preview {
+  image-rendering: pixelated;
+}
+
+#download {
+  display: none;
+}
